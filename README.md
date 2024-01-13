@@ -1,4 +1,4 @@
-![image](https://github.com/JDSherbert/Audio-Delay/assets/43964243/696b4885-296f-4291-936e-b512fadc768c)
+![image](https://github.com/JDSherbert/Audio-Delay/assets/43964243/6a7b530e-8740-423b-a20b-defd88ea625b)
 
 # Audio: Delay
 
@@ -27,6 +27,8 @@ Digital Signal Processing (DSP) delay is a fundamental technique employed by aud
 
 ### What is DSP Delay?
 DSP delay involves introducing a time delay to an audio signal in the digital domain. This delay can be implemented as a simple time offset or as a more complex effect with feedback, modulation, and filtering. Audio engineers leverage DSP delays for a myriad of purposes, ranging from basic echo effects to sophisticated spatial enhancements.
+
+![image](https://github.com/JDSherbert/Audio-Delay/assets/43964243/696b4885-296f-4291-936e-b512fadc768c)
 
 ### Key Concepts
 #### - Delay Time
