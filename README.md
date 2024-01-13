@@ -1,4 +1,4 @@
-![image]()
+![image](https://github.com/JDSherbert/Audio-Delay/assets/43964243/696b4885-296f-4291-936e-b512fadc768c)
 
 # Audio: Delay
 
@@ -23,7 +23,24 @@
 
 -----------------------------------------------------------------------
 ## Overview
-Some words about the project here-
+Digital Signal Processing (DSP) delay is a fundamental technique employed by audio engineers to manipulate the timing of audio signals in the digital domain. Delays introduce a temporal offset between the original and processed signals, enabling the creation of various effects, spatial enhancements, and artistic sound design. This repository provides a basic implementation of a DSP delay in C++. The purpose is to illustrate the core concepts of digital audio delay and how it can be integrated into audio processing workflows.
+
+### What is DSP Delay?
+DSP delay involves introducing a time delay to an audio signal in the digital domain. This delay can be implemented as a simple time offset or as a more complex effect with feedback, modulation, and filtering. Audio engineers leverage DSP delays for a myriad of purposes, ranging from basic echo effects to sophisticated spatial enhancements.
+
+### Key Concepts
+#### - Delay Time
+The duration between the original sound and its delayed version. Short delay times create flanger or chorus effects, while longer delays contribute to echo and reverb.
+#### - Feedback
+The portion of the delayed signal that is fed back into the delay line.
+Feedback is crucial for creating sustain, decay, or infinite reverberation in delay-based effects.
+
+#### - Modulation and Filtering
+Dynamically varying the delay time introduces shifting effects like chorus or flanger. Applying filters to the delayed signal can alter its frequency content.
+
+#### - Haas Effect
+Uses a short delay between two identical signals to create a perception of localization or spaciousness. Ideal for widening the stereo image without introducing noticeable echo.
+
 
 
 -----------------------------------------------------------------------
